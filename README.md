@@ -8,7 +8,7 @@ Repositório criado para armazenar todos os arquivos e explicar sobre o cp-02 de
 - RM99577 - Guilherme Dias Gomes.
 
 ## Documentação
-Foram criados dentro da aplicação 5 diferentes métodos de consulta, criação e delete de dados referentes ao banco de dados da Oracle, são eles:
+Foram criados dentro da aplicação 5 diferentes métodos de consulta, criação e delete de dados, e são eles:
 - listarBrinquedos(); 
 - criarBrinquedo();
 - atualizarBrinquedo();
