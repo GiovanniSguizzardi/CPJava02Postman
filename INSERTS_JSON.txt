@@ -1,0 +1,70 @@
+  {
+    "nome": "Carrinho de Controle Remoto",
+    "tipo": "Veículo",
+    "classificacao": "Infantil",
+    "tamanho": "Pequeno",
+    "preco": 59.99
+  },
+  {
+    "nome": "Quebra-Cabeça",
+    "tipo": "Quebra-Cabeça",
+    "classificacao": "Infantil",
+    "tamanho": "Médio",
+    "preco": 19.99
+  },
+  {
+    "nome": "Boneca Barbie",
+    "tipo": "Boneca",
+    "classificacao": "Infantil",
+    "tamanho": "Grande",
+    "preco": 29.99
+  },
+  {
+    "nome": "Bola de Futebol",
+    "tipo": "Bola",
+    "classificacao": "Infantil",
+    "tamanho": "Médio",
+    "preco": 9.99
+  },
+  {
+    "nome": "Kit de Ferramentas de Brinquedo",
+    "tipo": "Ferramenta",
+    "classificacao": "Infantil",
+    "tamanho": "Pequeno",
+    "preco": 24.99
+  },
+  {
+    "nome": "Urso de Pelúcia",
+    "tipo": "Pelúcia",
+    "classificacao": "Infantil",
+    "tamanho": "Médio",
+    "preco": 14.99
+  },
+  {
+    "nome": "Kit de Construção",
+    "tipo": "Construção",
+    "classificacao": "Infantil",
+    "tamanho": "Grande",
+    "preco": 34.99
+  },
+  {
+    "nome": "Cubo Mágico",
+    "tipo": "Quebra-Cabeça",
+    "classificacao": "Infantil",
+    "tamanho": "Pequeno",
+    "preco": 12.99
+  },
+  {
+    "nome": "Carrinho de Bonecas",
+    "tipo": "Veículo",
+    "classificacao": "Infantil",
+    "tamanho": "Pequeno",
+    "preco": 19.99
+  },
+  {
+    "nome": "Quebra-Cabeça 3D",
+    "tipo": "Quebra-Cabeça",
+    "classificacao": "Infantil",
+    "tamanho": "Grande",
+    "preco": 29.99
+  }
