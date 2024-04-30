@@ -5,7 +5,7 @@ Repositório criado para armazenar todos os arquivos e explicar sobre o cp-02 de
 - RM551261 - Giovanni Sguizzardi;
 - RM98057 - Nicolas E. Inohue;
 - RM99841 - Marcel Prado Soddano;
-- RM99577 - Guilherme Dias Gomes.
+- RM99577 - Guilherme Dias Gomes
 
 ## Documentação
 Foram criados dentro da aplicação 5 diferentes métodos de consulta, criação e delete de dados, e são eles:
