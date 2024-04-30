@@ -21,7 +21,7 @@ dependências:
 
 ![image](https://github.com/GiovanniSguizzardi/CPJava02Postman/assets/125572342/09ad579b-a0e3-4116-a5a2-c8dafe7daac8)
 
-##Prints dos END-POINTS (C.R.U.D)
+## Prints dos END-POINTS (C.R.U.D)
 - Print do método listarBrinquedos() --> Como acessar: GET http://localhost:8080/brinquedos
 ![image](https://github.com/GiovanniSguizzardi/CPJava02Postman/assets/125572342/07743642-b54d-47c6-8b46-9886530d55e6)
 
